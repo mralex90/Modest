@@ -10,3 +10,5 @@ console.log(z);
 
 document.querySelector('.b-1').onclick = func1;
 
+console.log('last');
+
